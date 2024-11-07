@@ -1,0 +1,21 @@
+.middle{
+  align-items: center;
+  justify-content: center;
+  display:flex;
+  flex-direction: column;
+ text-align: center;
+ height:100vh;
+ font-size:3vw;
+ font-weight: 500;
+}
+.middle img{
+  height:20vh;
+ 
+}
+.buttonBlue{
+  border-radius: 2vw;
+  padding:1vw 2vw;
+ background-color: blue;
+ color:white;
+ border:none;
+}
